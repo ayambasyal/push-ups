@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="code.css">
 <div class="cont s--inactive">
   <!-- cont inner start -->
   <div class="cont__inner">
