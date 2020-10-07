@@ -1,37 +1,123 @@
-## Welcome to GitHub Pages
+<div class="cont s--inactive">
+  <!-- cont inner start -->
+  <div class="cont__inner">
+    <!-- el start -->
+    <div class="el">
+      <div class="el__overflow">
+        <div class="el__inner">
+          <div class="el__bg"></div>
+          <div class="el__preview-cont">
+            <h2 class="el__heading">Section 1</h2>
+          </div>
+          <div class="el__content">
+            <div class="el__text">Whatever</div>
+            <div class="el__close-btn"></div>
+          </div>
+        </div>
+      </div>
+      <div class="el__index">
+        <div class="el__index-back">1</div>
+        <div class="el__index-front">
+          <div class="el__index-overlay" data-index="1">1</div>
+        </div>
+      </div>
+    </div>
+    <!-- el end -->
+    <!-- el start -->
+    <div class="el">
+      <div class="el__overflow">
+        <div class="el__inner">
+          <div class="el__bg"></div>
+          <div class="el__preview-cont">
+            <h2 class="el__heading">Section 2</h2>
+          </div>
+          <div class="el__content">
+            <div class="el__text">Whatever</div>
+            <div class="el__close-btn"></div>
+          </div>
+        </div>
+      </div>
+      <div class="el__index">
+        <div class="el__index-back">2</div>
+        <div class="el__index-front">
+          <div class="el__index-overlay" data-index="2">2</div>
+        </div>
+      </div>
+    </div>
+    <!-- el end -->
+    <!-- el start -->
+    <div class="el">
+      <div class="el__overflow">
+        <div class="el__inner">
+          <div class="el__bg"></div>
+          <div class="el__preview-cont">
+            <h2 class="el__heading">Section 3</h2>
+          </div>
+          <div class="el__content">
+            <div class="el__text">Whatever</div>
+            <div class="el__close-btn"></div>
+          </div>
+        </div>
+      </div>
+      <div class="el__index">
+        <div class="el__index-back">3</div>
+        <div class="el__index-front">
+          <div class="el__index-overlay" data-index="3">3</div>
+        </div>
+      </div>
+    </div>
+    <!-- el end -->
+    <!-- el start -->
+    <div class="el">
+      <div class="el__overflow">
+        <div class="el__inner">
+          <div class="el__bg"></div>
+          <div class="el__preview-cont">
+            <h2 class="el__heading">Section 4</h2>
+          </div>
+          <div class="el__content">
+            <div class="el__text">Whatever</div>
+            <div class="el__close-btn"></div>
+          </div>
+        </div>
+      </div>
+      <div class="el__index">
+        <div class="el__index-back">4</div>
+        <div class="el__index-front">
+          <div class="el__index-overlay" data-index="4">4</div>
+        </div>
+      </div>
+    </div>
+    <!-- el end -->
+    <!-- el start -->
+    <div class="el">
+      <div class="el__overflow">
+        <div class="el__inner">
+          <div class="el__bg"></div>
+          <div class="el__preview-cont">
+            <h2 class="el__heading">Section 5</h2>
+          </div>
+          <div class="el__content">
+            <div class="el__text">Whatever</div>
+            <div class="el__close-btn"></div>
+          </div>
+        </div>
+      </div>
+      <div class="el__index">
+        <div class="el__index-back">5</div>
+        <div class="el__index-front">
+          <div class="el__index-overlay" data-index="5">5</div>
+        </div>
+      </div>
+    </div>
+    <!-- el end -->
+  </div>
+  <!-- cont inner end -->
+</div>
 
-You can use the [editor on GitHub](https://github.com/ayambasyal/push-ups/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayambasyal/push-ups/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="https://dribbble.com/shots/2802024-Satellite-Website-Prototype" target="_blank" class="icon-link">
+  <img src="http://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Dribbble-icon.png">
+</a>
+<a href="https://twitter.com/NikolayTalanov" target="_blank" class="icon-link icon-link--twitter">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png">
+</a>
